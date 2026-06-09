@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="not-reed" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/not-reed-banner.svg">
+  <img src="assets/not-reed-banner-light.svg" alt="not-reed" width="100%">
 </picture>
 
 ---
