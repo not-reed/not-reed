@@ -1,0 +1,25 @@
+<svg width="800" height="160" viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="160" fill="#f8f8f8"/>
+
+  <!-- Accent bar -->
+  <rect x="40" y="36" width="2" height="88" fill="#0891b2" opacity="0.9"/>
+
+  <!-- Name -->
+  <text x="58" y="95" font-family="'Courier New', Courier, monospace" font-size="54" font-weight="700" fill="#111111">not-reed</text>
+
+  <!-- Blinking cursor -->
+  <text x="320" y="95" font-family="'Courier New', Courier, monospace" font-size="54" font-weight="700" fill="#0891b2" id="cursor">▌</text>
+
+  <!-- Tagline -->
+  <text x="60" y="122" font-family="'Courier New', Courier, monospace" font-size="13" fill="#999999" letter-spacing="0.8">building tools that think. sometimes onchain.</text>
+
+  <style>
+    #cursor {
+      animation: blink 1.1s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+</svg>
