@@ -7,11 +7,9 @@
 
 **running**
 
-[sprawl](https://github.com/not-reed/sprawl) · [docs](https://sprawl.pages.dev)
-ai monorepo. daemons that watch, agents that remember, a Telegram bot that rewrites itself at 3am. market intel. paper trading. RPG GM. Rust TUI. documented for me, not for you.
+[sprawl](https://github.com/not-reed/sprawl) · [docs](https://sprawl.pages.dev) ai monorepo. daemons that watch, agents that remember, a Telegram bot that rewrites itself at 3am. market intel. paper trading. RPG GM. Rust TUI. documented for me, not for you.
 
-tinted · [tinted.fun](https://tinted.fun)
-onchain color NFTs. palette management. pixel art. Foundry + Bun.
+tinted · [tinted.fun](https://tinted.fun) onchain color NFTs. palette management. pixel art. Foundry + Bun.
 
 ---
 
@@ -26,8 +24,7 @@ onchain games on Farcaster/Base. built at [Lazer](https://lazertechnologies.com)
 
 ---
 
-by day: engineer @ [Lazer Technologies](https://lazertechnologies.com)
-by night: this
+engineer @ [Lazer Technologies](https://lazertechnologies.com)
 
 ---
 
